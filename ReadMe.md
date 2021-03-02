@@ -1,3 +1,3 @@
 # Demo
 
-THis is a learning curve....... Dont fret.
+This is a learning curve....... Dont fret.
